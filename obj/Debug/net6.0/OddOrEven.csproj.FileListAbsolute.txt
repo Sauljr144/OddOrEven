@@ -1,15 +1,30 @@
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.exe
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.deps.json
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.runtimeconfig.json
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.dll
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.pdb
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.csproj.AssemblyReference.cache
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfoInputs.cache
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfo.cs
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.csproj.CoreCompileInputs.cache
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.dll
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\refint\OddOrEven.dll
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.pdb
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.genruntimeconfig.cache
-C:\Users\sauls\Documents\CS Academy\Level1\OddOrEven\OddOrEven\obj\Debug\net6.0\ref\OddOrEven.dll
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/bin/Debug/net6.0/OddOrEven.exe
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/bin/Debug/net6.0/OddOrEven.deps.json
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/bin/Debug/net6.0/OddOrEven.runtimeconfig.json
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/bin/Debug/net6.0/OddOrEven.dll
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/bin/Debug/net6.0/OddOrEven.pdb
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.csproj.AssemblyReference.cache
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.AssemblyInfoInputs.cache
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.AssemblyInfo.cs
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.csproj.CoreCompileInputs.cache
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.dll
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/refint/OddOrEven.dll
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.pdb
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/OddOrEven.genruntimeconfig.cache
+C:/Users/sauls/Documents/CS Academy/Level1/OddOrEven/OddOrEven/obj/Debug/net6.0/ref/OddOrEven.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/bin/Debug/net6.0/OddOrEven
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/bin/Debug/net6.0/OddOrEven.deps.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/bin/Debug/net6.0/OddOrEven.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/bin/Debug/net6.0/OddOrEven.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/bin/Debug/net6.0/OddOrEven.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/refint/OddOrEven.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/OddOrEven.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/OddOrEvenSaul/OddOrEven/obj/Debug/net6.0/ref/OddOrEven.dll
